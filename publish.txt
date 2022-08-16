@@ -1,0 +1,89 @@
+﻿# 刊登與庫存
+
+## 如何刊登物件？
+
+**此功能僅在桌機/筆電/平板使用** 
+  　  
+您可於建立庫存物件時，設定「公開」，即可於「實價登錄比價王」網站公開上架（注意！只有已簽委託的庫存物件才能刊登上架，以免違反不動產經紀條例。）  
+  　  
+![enter image description here](https://cms.houseprice.tw/hpimage/MzExNDM3N25ld3M,/3d062b6aa3aeab60_995x320.png)
+  　  
+建立庫存的方式如下：  
+1.[自動匯入](https://007.houseprice.tw/inventory/transferred)：可於"我的庫存"快速匯入屬於您的物件。  
+2.[快速搬家](https://007.houseprice.tw/inventory/inventory-edit)：於編輯頁中貼上您在其他房仲網站的物件頁網址，即可快速匯入該筆物件基本資料。  
+3.[開發物件](https://007.houseprice.tw/house)：在開發-找物件時，若有看到您自己的物件也可快速加入。  
+4.[新增庫存](https://007.houseprice.tw/inventory/inventory-edit)：若是剛新接的物件，可以直接輸入物件資訊後，新增一筆物件。  
+
+
+## 刊登期間多久？
+
+物件刊登期間皆為 90天。
+
+## 刊登後，物件會出現在哪裡？
+
+刊登的物件，分「公開」「不公開」兩類，您可於[我的庫存](https://007.houseprice.tw/inventory/published)進行設定  
+  　  
+ - 【公開】：您的物件將於 [實價登錄比價王](https://buy.houseprice.tw/)公開上架，同時顯示於物件集結頁明顯版位，增加曝光量及客戶詢問度。  
+  　  ![enter image description here](https://cms.houseprice.tw/hpimage/MzE0MTI4MW5ld3M,/45462f07640293d9_1075x851.png)
+  　  
+  　  
+ - 【不公開】：不會上架在實價登錄比價王網站上，但您可以另外分享物件網頁給您的客戶。  
+
+## 物件已成交，如何關閉刊登廣告？
+
+**此功能僅在桌機/筆電/平板使用** 
+  　  
+請到[我的庫存](https://007.houseprice.tw/inventory/published)中，點擊該筆物件【關閉】，即可將此筆物件下架關閉。  
+  　  
+![enter image description here](https://cms.houseprice.tw/hpimage/MzExNDM3OW5ld3M,/26662b6aa9f48724_982x211.png)
+
+## 已過期的物件，如何續刊？
+
+**此功能僅在桌機/筆電/平板使用** 
+  　  
+超過90天刊登期間的物件會被轉到[不公開區](https://007.houseprice.tw/inventory/private)，請至不公開區重新設定物件公開上架即可。
+  　  
+![enter image description here](https://cms.houseprice.tw/hpimage/MzExNDM4MG5ld3M,/b9a62b6aab73eae8_990x283.png](https://p1-news.hfcdn.com/p1-news/MzExNDM2OW5ld3M,/ccd62b6a7a5e96b8_990x283.png))
+
+## 所有人都可以刊登物件嗎？
+
+刊登功能僅限認證會員使用，如您尚未認證請先完成認證，方可刊登物件。
+　　
+ - **在桌機/筆電/平板** 　[完成仲介認證](https://007.houseprice.tw/member)
+ - **在手機**  　[完成仲介認證](https://liff.line.me/1656902670-QnP22bOb?keyword=%E8%AA%8D%E8%AD%89&sfrom=faq)
+
+## 庫存與追蹤的差異
+
+ - 【庫存物件】：為您已簽訂委託之案件。注意！只有已簽委託的庫存物件才能刊登上架，以免違反不動產經紀條例。
+ -   【追蹤物件】：為您尚在追蹤，未取得屋主委託的案件。
+
+## 刊登物件是否需要收費？
+
+目前提供認證會員免費刊登。
+
+## 如何找到金牌房仲的刊登服務？
+
+**請在桌機/筆電/平板操作**  
+  　  
+**方法 1. 
+[Google 金牌房仲](https://www.google.com/search?q=%E9%87%91%E7%89%8C%E6%88%BF%E4%BB%B2&rlz=1C1GCEA_zh-TW&ei=lvfdYr6cEcqI-Qav5bPYDQ&ved=0ahUKEwi-v4OZ95L5AhVKRN4KHa_yDNsQ4dUDCA4&uact=5&oq=%E9%87%91%E7%89%8C%E6%88%BF%E4%BB%B2&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsANKBQg8EgExSgQIQRgASgQIRhgAUABYAGDsBGgBcAF4AIABAIgBAJIBAJgBAMgBCsABAQ&sclient=gws-wiz) ，點擊搜尋結果「金牌房仲」**
+
+![enter image description here](https://cms.houseprice.tw/hpimage/MzEzMjQyOW5ld3M,/e1a62ddfe2272fbb_1163x423.png)
+  　  
+**進入金牌房仲網站後，點擊上方選單「刊登/庫存」**
+
+![enter image description here](https://cms.houseprice.tw/hpimage/MzEzMjQ0MG5ld3M,/db462de016f7b42a_1275x531.png)
+  　  
+  　  
+**方法 2.
+進入 [實價登錄比價王](https://www.houseprice.tw/)，點頁面右上方的「金牌房仲」**
+
+![enter image description here](https://cms.houseprice.tw/hpimage/MzEzMjQzMW5ld3M,/9f362ddfe96e30b2_1014x368.png)
+  　  
+**進入金牌房仲網站後，點擊上方選單「刊登/庫存」**
+
+![enter image description here](https://cms.houseprice.tw/hpimage/MzEzMjQ0MG5ld3M,/db462de016f7b42a_1275x531.png)
+  　  
+  　  
+**方法 3.
+您也可直接 [點此進入](https://007.houseprice.tw/inventory/inventory-edit)「金牌房仲物件刊登編輯頁」**

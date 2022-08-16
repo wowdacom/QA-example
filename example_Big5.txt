@@ -1,0 +1,107 @@
+# Line常見問題
+  　 
+## 1. 如何找到「金牌房仲-實價登錄比價王」?  
+  　  
+**．在手機**  
+  　  
+我們有Line官方帳號，三種方式提供你加入：  
+(1)   
+在Google搜尋「金牌房仲」    
+![Google搜尋金牌房仲](https://cms.houseprice.tw/hpimage/MzEzMDg2N25ld3M,/e0462da137b4ed5d_1168x1004.png)
+  　  
+(2)     
+在「實價登錄比價王」官方帳號，打開選單，點擊「金牌房仲」  
+![實價登錄比價王-LINE選單](https://cms.houseprice.tw/hpimage/MzEzMDg1Nm5ld3M,/b1462da117f7d105_1160x1908.png)
+  　  
+(3)   
+用手機直接[點此加入](https://lin.ee/3Rgoe4S)  ，  
+若你現在使用桌機/筆電/平板點此[連結，拍照掃碼加入](https://lin.ee/3Rgoe4S)   
+  　  
+  　  
+**．在桌機／筆電／平板**      
+  　  
+有三種方式提供你進入：  
+(1)   
+在Google瀏覽器搜尋「金牌房仲」  
+![桌機Google搜尋](https://cms.houseprice.tw/hpimage/MzEzMDkyNW5ld3M,/a8262da1da556dfe_705x531.png)
+  　  
+(2)     
+到[實價登錄比價王](https://www.houseprice.tw/)  
+點選上方「金牌房仲」進入  
+![實價登錄比價王-網站](https://cms.houseprice.tw/hpimage/MzEyOTEyOW5ld3M,/42662d634f6a1186_979x532.png)
+  　  
+(3) 直接[點此進入金牌房仲](https://007.houseprice.tw/)  
+  　  
+## 2. 如何綁定Line官方帳號?  
+  　  
+到Line搜尋官方帳號「金牌房仲-實價登錄比價王」或[點此加入](https://lin.ee/3Rgoe4S)   。  
+加入好友後    
+  　  
+ - 先點選下方選單「會員中心」  
+![點擊會員中心](https://cms.houseprice.tw/hpimage/MzEzMDg1NG5ld3M,/1a162da10c13fc14_936x1564.png)
+  　  
+ - 依照指示先輸入手機號碼、再輸入簡訊驗證碼，即可綁定！  
+　 <提醒!> 如果有推薦碼，請記得輸入。  
+![手機號碼登入](https://cms.houseprice.tw/hpimage/MzEyODIyOW5ld3M,/75a62d4d3fb1416b_590x1248.png)
+  　  
+## 3. 如何接收到Line新物件上架通知?  
+  　  
+綁定Line官方帳號後，  
+  　  
+**．在桌機/筆電/平板**  
+　連到【[開發](https://007.houseprice.tw/house/)】頁面，左側設定條件，完成後按左下方「儲存條件」即可收到新物件上架通知。  
+  　  
+**．在手機**  
+　金牌房仲Line使用【[找物件](https://liff.line.me/1656902670-QnP22bOb?keyword=%E6%89%BE%E7%89%A9%E4%BB%B6&sfrom=faq_line)】，開啟搜尋條件設定後，
+　按左下方「儲存條件」即可收到新物件上架通知。
+![找物件－儲存條件](https://cms.houseprice.tw/hpimage/MzEyODIzMm5ld3M,/0d762d4d5bf6d323_998x2007.png)
+  　  
+## 4. 如何解除Line通知?
+  　  
+**．在桌機/筆電/平板**  
+　連到【[開發](https://007.houseprice.tw/house/)】頁面，左上方「儲存條件」列表按下編輯，通知設定關閉即可。
+  　  
+**．在手機**  
+　金牌房仲Line使用【[我的儲存條件](https://liff.line.me/1656902670-QnP22bOb?keyword=%E6%88%91%E7%9A%84%E5%84%B2%E5%AD%98%E6%A2%9D%E4%BB%B6&sfrom=faq_line)】，在條件卡片上按下「關閉通知」即可，你也可以選擇「移除條件」。　![找物件－關閉通知](https://cms.houseprice.tw/hpimage/MzEyODI0MG5ld3M,/afe62d4d695cabe8_940x2001.png)
+  　  
+## 5. 定位找 -- 如何使用Line定位?
+  　  
+使用定位找功能，可以幫助你找到附近400公尺內的物件，此功能僅限於Line使用。  
+  　  
+在金牌房仲Line輸入【[定位找](https://liff.line.me/1656902670-QnP22bOb?keyword=%E5%AE%9A%E4%BD%8D%E6%89%BE&sfrom=faq_line)】啟用  
+  　  
+> 步驟1/ 開始定位  
+![定位找-開始定位](https://cms.houseprice.tw/hpimage/MzExMDQ3OG5ld3M,/97c62ad77427cfbb_1170x2532.png)
+  　  
+步驟2/ 分享位置 ，有兩種方式：
+![定位找-傳送我的位置-按分享](https://cms.houseprice.tw/hpimage/MzExMDQ3NG5ld3M,/6de62ad76972d8b2_1170x2532.png)
+  　 
+或  
+![定位找-傳送我的位置-按地圖](https://cms.houseprice.tw/hpimage/MzExMDQ3NW5ld3M,/dd862ad76bdd9917_1170x2532.png)  
+這樣就完成了！  
+  　  
+## 6. Line瀏覽器如何重新登入?  
+  　   
+請依指示清除快取即可 * 請放心快取不會刪除你的Line對話紀錄   
+  　   
+**．蘋果手機 (又名Apple/iPhone) **    
+ 1. 到主頁點選右上方齒輪圖案「設定」   
+ 2. 到「聊天」  
+ 3. 到「刪除資料」  
+ 4. 勾選「快取資料」刪除即可！*提醒若很久未刪除會等待比較久*  
+ **[< 點此查看蘋果手機的圖解>](https://cms.houseprice.tw/hpimage/MzEzNDU3OG5ld3M,/a6f62e2464e1ef86_2994x1348.png)**   
+  　   
+**．安卓手機 (又名Android) **  
+  　   
+ 1. 找到手機內的系統「設定」  
+ 2. 到「應用程式與通知」  
+ 3. 到「Line」   
+ 4. 找到「儲存空間和快取」  
+ 5. 清除快取即可！*提醒若很久未刪除會等待比較久*  
+ **[< 點此查看安著手機的圖解>](https://cms.houseprice.tw/hpimage/MzEzNDU3Mm5ld3M,/c5f62e244274f47f_2998x1128.png)**   
+  　   
+## 7. Line官方帳號的ID是什麼？ 
+  　   
+Line加好友搜尋「**@houseprice007**」*（快速記憶：小老鼠 房子有錢 007）*  
+  　 
+  　   
