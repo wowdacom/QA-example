@@ -1,0 +1,28 @@
+[
+  {
+    "category": "# 我是類別1",
+    "qaList": [{ "question": "## 我是問題1", "answer": "<p>我是內容1</p>" }]
+  },
+  {
+    "category": "# 我是類別2",
+    "qaList": [
+      {
+        "question": "## 我是問題2-1",
+        "answer": "<ul>\n<li>項目1</li>\n<li>項目2</li>\n<li>項目3</li>\n</ul>"
+      },
+      {
+        "question": "## 我是問題2-2",
+        "answer": "<ul>\n<li>項目1</li>\n<li>項目2</li>\n<li>項目3</li>\n</ul>"
+      }
+    ]
+  },
+  {
+    "category": "# 我是類別3",
+    "qaList": [
+      {
+        "question": "## 我是問題3",
+        "answer": "<p>-手機版</p>\n<ol>\n<li>項目1</li>\n<li>項目2</li>\n<li>項目3</li>\n</ol>\n<p>-桌機版</p>\n<ol>\n<li>項目1</li>\n<li>項目2</li>\n</ol>"
+      }
+    ]
+  }
+]

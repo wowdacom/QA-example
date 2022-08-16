@@ -1,0 +1,22 @@
+{
+  "name": "test-readfile",
+  "version": "1.0.0",
+  "description": "例子集合",
+  "main": "readit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowdacom/-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowdacom/-/issues"
+  },
+  "homepage": "https://github.com/wowdacom/-#readme",
+  "dependencies": {
+    "showdown": "^2.1.0"
+  }
+}
