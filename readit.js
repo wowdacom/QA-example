@@ -1,14 +1,33 @@
-const fs = require('fs');
-const readline = require('readline');
+const fs = require("fs");
+const readline = require("readline");
 
 //例子1
-// fs.readFile('hello.txt', 'utf8', (err, data) => {
+// fs.readFile("hello.txt", "utf-8", (err, data) => {
 //   if (err) {
 //     console.error(err);
 //     return;
 //   }
 //   console.log(data);
 // });
+
+//例子1.1
+// const readit = () => {
+//   const rl = readline.createInterface({
+//     input: fs.createReadStream("hello.txt"),
+//     output: process.stdout,
+//     terminal: false,
+//   });
+
+//   rl.on("line", (line) => {
+//     console.log(line + "\n");
+//   });
+
+//   rl.on("close", () => {
+//     console.log(`END`);
+//   });
+// };
+
+// readit();
 
 //例子2
 // const fileList = ['hello.txt', 'hello2.txt', 'hello3.txt'];
